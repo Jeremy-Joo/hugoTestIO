@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/docs/archive/test/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/docs/archive/test2/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/docs/archive/test3/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/docs/archive/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/docs/features/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/docs/language/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/docs/posts/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/docs/web/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/docs/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/author/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/categories/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/author/fix-test-authour-fix/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/hugoTestIO/tags/</loc>
+  </url>
+</urlset>
